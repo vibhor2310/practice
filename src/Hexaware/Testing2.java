@@ -12,6 +12,7 @@ public class Testing2 {
         System.out.println("Student id is : "+id);
         System.out.println("Student Name is : "+name);
         System.out.println("Student College is : "+college);
+        System.out.println("Hello");
 
     }
 
